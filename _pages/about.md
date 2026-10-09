@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer science graduate with experience in software development, AI, and data systems.
+subtitle: MPhil in Computer Science at HKUST, AI and software development.
 
 profile:
   align: right
@@ -22,6 +22,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<br>
+<br>
 
 Hi, I’m Kwun Hang Lau. I completed my MPhil in Computer Science and Engineering at HKUST in April 2026, focusing on retrieval-augmented generation (RAG), vector databases, and information retrieval. Before that, I earned a Bachelor’s degree in Computer Science with First Class Honours and a minor in Statistics from CUHK.
 
